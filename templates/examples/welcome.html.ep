@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	
+	<body>
+		<b>Time Evolution</b>
+		
+		<iframe src="1.html" width="400" height="600" align="left">
+    		Ваш браузер не поддерживает плавающие фреймы!
+ 		</iframe>
+		
+	</body>
+</html>
